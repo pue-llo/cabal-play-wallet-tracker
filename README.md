@@ -200,13 +200,22 @@ src/
 
 ## 🔮 Future Roadmap
 
-- [ ] Custom validator/RPC support
+### v1.1 - Security & Stability
+- [ ] Replace `xlsx` library with safer alternative (address high vulnerability)
+- [ ] Upgrade Vite to v7.x (address moderate vulnerabilities)
+- [ ] Add file validation for Excel imports
+
+### v1.2 - Enhanced Features
+- [ ] Custom validator/RPC support (use your own node)
 - [ ] Real-time WebSocket updates
 - [ ] Portfolio analytics & charts
 - [ ] Alert notifications
+
+### v2.0 - Major Update
 - [ ] Multi-token tracking
 - [ ] Mobile responsive design
 - [ ] Export to CSV/PDF
+- [ ] Shareable tracking links
 
 ---
 
